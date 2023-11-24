@@ -17,7 +17,7 @@ Each project directory contains subdirectories for code, data, and results, alon
 To run the code and reproduce the results:
 
 1. Navigate to the project directory.
-2. Execute the Jupyter notebook `Sleep Efficency.ipynb`.
+2. Execute the Jupyter notebook `Sleep_Efficency.ipynb`.
 
 ### Author
 
