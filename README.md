@@ -59,9 +59,7 @@ This project utilizes machine learning to predict sleep efficiency based on a co
 
 ## Usage
 
-1. Clone the repository.
-2. Open the Jupyter notebooks in the `Code` directory for step-by-step execution.
-3. Review model outputs in the `Results` directory.
+- Execuate the sleep_efficiency.pynb file sequentially
 
 ## Dependencies
 
