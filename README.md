@@ -8,7 +8,7 @@ Each project directory contains subdirectories for code, data, and results, alon
 
 ## Projects
 
-### Sleep Efficiency Prediction Project
+### 1.  Sleep Efficiency Prediction Project
 
 - **Description:** This project focuses on predicting sleep efficiency using machine learning. Sleep efficiency is a critical metric for understanding the quality of sleep, and the goal of this project is to develop a model that can accurately predict sleep efficiency based on various demographic and lifestyle factors.
   
@@ -19,7 +19,7 @@ To run the code and reproduce the results:
 1. Navigate to the project directory.
 2. Execute the Jupyter notebook `Sleep Efficency.ipynb`.
 
-#### Author
+### Author
 
 - Hoyath Ali
 
