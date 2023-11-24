@@ -8,32 +8,21 @@ Each project directory contains subdirectories for code, data, and results, alon
 
 ## Projects
 
-### Project 1: [Project Name]
+### Sleep Efficiency Prediction Project
 
-- **Description:** Brief description of the project, its goals, and its significance.
-- **Code:** Directory containing all relevant code and Jupyter notebooks.
-- **Data:** Directory for storing datasets used in the project.
-- **Results:** Directory for storing any output, visualizations, or model weights.
-- **README.md:** Detailed documentation of the project, including methodologies, key findings, and instructions for running the code.
+- **Description:** This project focuses on predicting sleep efficiency using machine learning. Sleep efficiency is a critical metric for understanding the quality of sleep, and the goal of this project is to develop a model that can accurately predict sleep efficiency based on various demographic and lifestyle factors.
+  
+#### Running the Code
 
-### Project 2: [Project Name]
+To run the code and reproduce the results:
 
-- ...
+1. Navigate to the project directory.
+2. Execute the Jupyter notebook `Sleep Efficency.ipynb`.
 
-## Running the Code
+#### Author
 
-Include any specific instructions or dependencies needed to run the code in your projects.
+- Hoyath Ali
 
-## Author
 
-- [Your Name]
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Mention any acknowledgments or references to external resources that you used in your projects.
 
 Feel free to reach out if you have questions or feedback!
