@@ -59,7 +59,7 @@ This project utilizes machine learning to predict sleep efficiency based on a co
 
 ## Usage
 
-- Execuate the sleep_efficiency.pynb file sequentially
+- Execuate the Forecasting_Sleep_Efficiency_Random_Forest.pynb file sequentially
 
 ## Dependencies
 
